@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="リモート開発" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="PICCent-CentOS (d0fa3b1f-e074-4046-a99b-cd8ead273055)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.fU2HYR0he7" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Ubuntu(WSL2) (036850eb-be7c-4225-9a25-79b54479e4bd)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.lPHgrykMWv" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="WSL2(Ubuntu)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
